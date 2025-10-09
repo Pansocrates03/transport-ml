@@ -1,0 +1,3 @@
+# Ignore all files in the data directory
+data/raw/*
+data/processed/*
