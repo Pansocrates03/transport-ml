@@ -1,5 +1,6 @@
 # Ignore all files in the data directory
-data/raw/*
-data/processed/*
-*.xlsx
-*.csv
+
+
+*xlsx
+*csv
+notebooks/AnalisisDiego.ipynb
